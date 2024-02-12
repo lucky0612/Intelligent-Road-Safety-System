@@ -44,4 +44,12 @@ https://drive.google.com/file/d/1VCa52XiDZc7Lmz-Nsdm6em83emk3dk-D/view?usp=drive
 
 ```bash
 git clone https://github.com/lucky0612/Intelligent-Road-Safety-System.git
-
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. How to Run
+Run the desired feature module by executing the corresponding Python script.For example:
+```bash
+python real_time_accident_detection.py
