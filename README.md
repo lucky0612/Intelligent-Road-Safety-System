@@ -52,4 +52,4 @@ pip install -r requirements.txt
 3. How to Run
 Run the desired feature module by executing the corresponding Python script.For example:
 ```bash
-python real_time_accident_detection.py
+pothole detection.ipynb
