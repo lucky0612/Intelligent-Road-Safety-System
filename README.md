@@ -35,11 +35,8 @@ The Intelligent Road Safety System is a comprehensive solution aimed at preventi
    - Provides actionable insights for improving road safety measures.
 
 For a visual demonstration of the Intelligent Road Safety System, please watch the video below:
-
-<video controls width="640" height="360">
-  <source src="https://drive.google.com/file/d/1VCa52XiDZc7Lmz-Nsdm6em83emk3dk-D/view?usp=drive_link" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://drive.google.com/file/d/1VCa52XiDZc7Lmz-Nsdm6em83emk3dk-D/view?usp=drive_link
+**NOTE-THE VARIOUS CLIPS ON WHICH THE MODELS ARE APPLIED ARE PICKED FROM YOUTUBE**
 
 ## Installation
 
