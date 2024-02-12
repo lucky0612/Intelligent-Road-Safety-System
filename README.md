@@ -34,7 +34,12 @@ The Intelligent Road Safety System is a comprehensive solution aimed at preventi
    - Extracts insights from textual data using NLP techniques.
    - Provides actionable insights for improving road safety measures.
 
-WORKING VIDEO LINK - https://drive.google.com/drive/folders/1zyAfM9v4eHHP-YW2IgVMtlsfL00DQjQH?usp=sharing
+For a visual demonstration of the Intelligent Road Safety System, please watch the video below:
+
+<video controls width="640" height="360">
+  <source src="https://drive.google.com/file/d/1VCa52XiDZc7Lmz-Nsdm6em83emk3dk-D/view?usp=drive_link" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
