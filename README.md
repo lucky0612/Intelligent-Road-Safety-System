@@ -38,6 +38,8 @@ For a visual demonstration of the Intelligent Road Safety System, please watch t
 https://drive.google.com/file/d/1VCa52XiDZc7Lmz-Nsdm6em83emk3dk-D/view?usp=drive_link
 **NOTE-THE VARIOUS CLIPS ON WHICH THE MODELS ARE APPLIED ARE PICKED FROM YOUTUBE**
 
+
+
 ## Installation
 
 1. Clone the repository:
