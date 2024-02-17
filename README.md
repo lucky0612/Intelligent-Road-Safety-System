@@ -2,7 +2,15 @@
 
 The Intelligent Road Safety System is a comprehensive solution aimed at preventing accidents and enhancing road safety through the application of artificial intelligence and machine learning techniques. This system encompasses various features, including real-time accident detection, driver behavior analysis, road condition monitoring, intelligent traffic management, collision prevention systems, and crash data analysis.
 
-## Features
+## Video
+
+
+https://github.com/lucky0612/Intelligent-Road-Safety-System/assets/145666325/85cf164d-cfa3-4a49-a76f-b33360317f44
+
+
+**NOTE-THE VARIOUS CLIPS ON WHICH THE MODELS ARE APPLIED ARE PICKED FROM YOUTUBE**
+
+## Features ## Video
 
 1. **Real-time Accident Detection:**
    - Detect accidents in real-time using CCTV cameras or drones.
@@ -33,11 +41,6 @@ The Intelligent Road Safety System is a comprehensive solution aimed at preventi
    - Classifies crash types using SVM or Random Forests.
    - Extracts insights from textual data using NLP techniques.
    - Provides actionable insights for improving road safety measures.
-
-For a visual demonstration of the Intelligent Road Safety System, please watch the video below:
-https://drive.google.com/file/d/1VCa52XiDZc7Lmz-Nsdm6em83emk3dk-D/view?usp=drive_link
-**NOTE-THE VARIOUS CLIPS ON WHICH THE MODELS ARE APPLIED ARE PICKED FROM YOUTUBE**
-
 
 
 ## Installation
